@@ -15,3 +15,4 @@ for styling i have used bootstrap css framework and some minimal plain css styli
 
 ### interactivity
 I have used vanilla javascript together with jquery and ajax for sending http request to the server
+[Python ocr](https://example.com)
