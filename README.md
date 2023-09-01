@@ -10,8 +10,8 @@ Given resources you can extend this project and integrate it with some devices s
 and even gate system to scan the access card to grant access if authenticated
 
 
-# responsiveness and design
+### responsiveness and design
 for styling i have used bootstrap css framework and some minimal plain css styling
 
-# interactivity
+### interactivity
 I have used vanilla javascript together with jquery and ajax for sending http request to the server
