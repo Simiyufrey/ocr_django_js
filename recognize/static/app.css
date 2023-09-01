@@ -1,0 +1,53 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.play{
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    text-align: center;
+    transform: translate(-50%,-50%);
+   opacity: 70%;
+}
+.play:hover{
+    opacity: 100%;
+}
+
+.switch{
+    position: absolute;
+    right: 0;
+    top: 90%;
+    font-size: 2em;
+}
+
+.photo-wrapper {
+    left: 0;
+    top: 10%;
+    width: 100%;
+}
+
+.ph{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 0;
+    margin-left: 2px;
+    top: 100%;
+    transform: translateY(-100%);
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px gray inset;
+}
+
+.spinner{
+    font-size: 3em;
+    color: orange;
+    text-align: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+
+}
